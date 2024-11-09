@@ -11,6 +11,7 @@ testpy-output
 seventh-packet-byte-count*
 *.cwnd
 *.pcap
+*:Zone.Identifier
 
 **/.lock*
 **/__pycache__
